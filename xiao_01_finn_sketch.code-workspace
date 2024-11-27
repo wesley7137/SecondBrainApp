@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "custom_wakeword_model",
+      "path": "../custom_wakeword_model"
+    },
+    {
+      "name": "SecondBrainApp",
+      "path": "."
+    },
+    {
+      "name": "second_brain_sketch",
+      "path": "C:/Users/wes/Documents/Arduino/second_brain_sketch"
+    }
+  ],
+  "settings": {}
+}
